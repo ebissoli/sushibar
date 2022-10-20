@@ -1,0 +1,2 @@
+# sushibar
+Golang toy project
